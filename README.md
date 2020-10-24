@@ -1,8 +1,8 @@
 # Scara 
 
-This Flask web-app allows the user to upload a barcode, and get returned a bill of their item. 
+This Flask web-app lets users input barcodes of their shopping items and return a bill. 
 
-It was made for Hack36, IIT Mandi.
+This was made for Hack36 – a 36 hours long IIT Mandi hackathon (2019).
 
 # Team Members
 
